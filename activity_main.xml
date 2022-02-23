@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Curriculum Vitae"
+        android:textSize="90px"
+        android:textColor="@color/teal_200"
+        android:textStyle="bold"
+        android:layout_marginLeft="20px"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Profile"
+        android:textSize="40px"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginLeft="20px"
+        android:layout_marginTop="50px"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Firstname    :           Wilfort"
+        android:textSize="30px"
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:layout_marginLeft="20px"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lastname    :            Maxime"
+        android:textSize="30px"
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:layout_marginLeft="20px"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Professional work"
+        android:textSize="40px"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginLeft="20px"
+        android:layout_marginTop="20px"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Computer Scientist"
+        android:textSize="30px"
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:layout_marginLeft="20px"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="University"
+        android:textSize="40px"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginLeft="20px"
+        android:layout_marginTop="20px"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Computer Science   : Ecole Superieure Infotronique d'Haiti"
+        android:textSize="30px"
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:layout_marginLeft="20px"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="High School"
+        android:textSize="40px"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginLeft="20px"
+        android:layout_marginTop="20px"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="College Martin Luther King"
+        android:textSize="30px"
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:layout_marginLeft="20px"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Languages"
+        android:textSize="40px"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginLeft="20px"
+        android:layout_marginTop="20px"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Creole"
+        android:textSize="30px"
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:layout_marginLeft="20px"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Francais"
+        android:textSize="30px"
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:layout_marginLeft="20px"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Anglais"
+        android:textSize="30px"
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:layout_marginLeft="20px"
+        />
+
+</LinearLayout>
